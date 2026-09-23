@@ -1,0 +1,147 @@
+.logo img {
+  width: 100%;
+  height: auto;
+}
+.container {
+  margin-top: 10px;
+}
+.sp1 {
+  display: flex;
+  border: 1px solid;
+  border-radius: 5px;
+  box-shadow: 0 0 10px gray;
+  padding: 5px;
+  margin-top: 10px;
+  align-items: center;
+}
+.sp1 img {
+  width: 50%;
+  height: auto;
+  object-fit: contain;
+  margin-right: 15px;
+  float: left;
+}
+.info h3{
+    color: red;
+}
+.info a{
+    text-decoration: none;
+    color: white;
+}
+.info button{
+    background-color: blue;
+    color: white;
+    border-radius: 5px;
+}
+
+.info button:hover{
+    box-shadow: 0 0 5px red;
+    border-color: red;
+}
+
+.slider img {
+  display: flex;
+  width: 100%;
+  height: 300px;
+}
+
+.content_top{
+	padding:15px 20px;
+	border:1px solid #EBE8E8;
+	border-radius:3px;
+}
+
+.heading{
+	float:left;
+	margin-right:10%;
+}
+.heading h3{
+	font-family: 'Monda', sans-serif;
+	font-size:22px;
+	color:#0077df;
+	text-transform:uppercase;
+}
+.page-no{
+	float:right;
+	padding-top:5px;
+}
+.page-no p{
+	display:inline;
+	font-size:0.8125em;
+	padding:0.3em 0;
+	color: #333;
+}
+.page-no ul{
+	display:inline;
+}
+.page-no li{
+	display:inline;
+}
+.page-no li a{
+	font-size:0.8125em;
+	color: #333;
+	line-height: 1.6em;
+	font-family : verdana, arial, helvetica, helve, sans-serif;
+	padding:5px 5px;
+}
+.page-no li a:hover,.page-no li.active{
+	color:#0077df;
+	text-decoration:underline;
+}
+
+.spm{
+    border: 1px solid;
+    border-radius: 5px;
+    text-align: center;
+    box-shadow: 0 0 5px gray;
+}
+ .spm img{
+    width: 100%;
+    height: auto;
+    padding: 10px;
+ }
+
+ .info-1{
+    margin: 10px;
+ }
+.info-1 h4{
+    color: red;
+}
+.info-1 a{
+    text-decoration: none;
+    color: white;
+}
+.info-1 button{
+    background-color: blue;
+    color: white;
+    border-radius: 5px;
+}
+
+.info-1 button:hover{
+    box-shadow: 0 0 5px red;
+    border-color: red;
+}
+
+.info-1 p{
+    color: red;
+    font-size: 20px;
+}
+.info-1 fonts{
+    color: black;
+    text-decoration: line-through;
+    font-size: 15px;
+}
+
+.gt{
+    background-color: antiquewhite;
+    color: #0077df;
+    height: 150px;
+    font-size: 40px;
+    text-align: center;
+
+}
+
+.sp img{
+    width: 100%;
+    height: auto;
+}
